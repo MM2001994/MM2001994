@@ -6,6 +6,14 @@ A Software Engineer at **Capgemini** with hands-on experience in **Conversationa
 
 ---
 
+
+## 🌐 Social Profiles  
+
+- [LinkedIn](https://www.linkedin.com/in/manish-mondal-32b941215)  
+- [GitHub](https://github.com/manishmondal331)  
+
+---
+
 ## 🚀 About Me  
 
 - 🔭 Currently working on **Conversational AI bots** and **Generative AI middleware services**.  
@@ -59,9 +67,3 @@ A Software Engineer at **Capgemini** with hands-on experience in **Conversationa
 - **Class 10th, State Board (2018)** — 93%  
 
 ---
-
-## 🌐 Social Profiles  
-
-- [LinkedIn](https://www.linkedin.com/in/manish-mondal-32b941215)  
-- [GitHub](https://github.com/manishmondal331)  
-
