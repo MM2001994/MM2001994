@@ -1,56 +1,67 @@
-| [cite_start]<h1 align="center">Hi 👋, I'm Manish Mondal [cite: 1][cite_start]</h1> A Full Stack Software Engineer/Analyst [cite: 4] [cite_start]with expertise in React, Node.js, Azure, and Generative AI Bots[cite: 8, 10, 27]. | ![Coding](https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif) |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+# Hi 👋, I'm Manish Mondal  
 
-## About Me
+A Software Engineer at **Capgemini** with hands-on experience in **Conversational AI, Generative AI Middleware, Cloud Services (Azure), and Database Management**. Passionate about building scalable solutions that improve efficiency and user experience.  
 
-- [cite_start]🔭 I’m currently working as a Software Engineer/Analyst at Capgemini [cite: 4][cite_start], building Gen AI middleware and conversational bots[cite: 8, 10].
-- [cite_start]👨‍💻 LinkedIn - [manish-mondal](https://www.linkedin.com/in/manish-mondal-32b941215) [cite: 2]
-- [cite_start]📫 Reach me at - manishmondal331@gmail.com [cite: 5]
-- ⚡ Fun fact: I love making clay crafts and exploring horror and fact-based content.
+![Coding](https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif)
 
-## [cite_start]Work Experience [cite: 3]
+---
 
-- [cite_start]**Software Engineer/Analyst, Capgemini: [August 2024 - Present]** [cite: 4, 7]
-  - [cite_start]Developed and deployed a conversational bot using Node.js and the Microsoft Bot Framework on Azure for high availability. [cite: 8]
-  - [cite_start]Integrated the bot with Microsoft Teams and Microsoft Graph API, reducing manual query resolution time by 30% for over 2,500 organizational users. [cite: 9]
-  - [cite_start]Engineered a generative AI middleware service acting as a robust bridge between a React frontend and a Python backend. [cite: 10]
-  - [cite_start]Integrated a Power BI dashboard to monitor bot performance and usage metrics, improving administrative reporting efficiency by 35%. [cite: 12]
+## 🚀 About Me  
 
-- [cite_start]**Martian Summer Intern, Persistent Systems: [May 2023 - November 2023]** [cite: 13, 14]
-  - [cite_start]Completed intensive technical training and upskilling through the Persistent Martian Summer Internship Program. [cite: 15]
-  - [cite_start]Delivered 15+ complex coding assignments, optimizing foundational algorithms to improve execution efficiency by 20%. [cite: 16]
+- 🔭 Currently working on **Conversational AI bots** and **Generative AI middleware services**.  
+- 👨‍💻 Portfolio coming soon!  
+- 📫 Reach me at: **manishmondal331@gmail.com**  
+- ⚡ Fun fact: I enjoy exploring new technologies, reading, and collaborating on impactful projects.  
 
-## Social Profiles
-  
-<span align="left">
-  <a href="https://www.linkedin.com/in/manish-mondal-32b941215" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:manishmondal331@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</span>
+---
 
-## [cite_start]Programming Languages [cite: 18]
+## 💼 Work Experience  
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- **Software Engineer / Analyst, Capgemini (Aug 2024 – Present)**  
+  - Developed and deployed a conversational bot using **Node.js** and **Microsoft Bot Framework** on **Azure**.  
+  - Integrated with **Microsoft Teams** and **Graph API**, reducing manual query resolution time by 30% for 2,500+ users.  
+  - Built a **Generative AI middleware service** bridging React frontend and Python backend.  
+  - Streamlined communication protocols to handle 5,000+ daily queries, reducing response time by 40%.  
+  - Integrated **Power BI dashboards** for monitoring bot performance, improving reporting efficiency by 35%.  
 
-## [cite_start]Frontend, Backend & Cloud Tools [cite: 19, 20]
+- **Martian Summer Intern, Persistent Systems (May 2023 – Nov 2023)**  
+  - Completed intensive technical training and delivered 15+ complex coding assignments.  
+  - Optimized foundational algorithms, improving execution efficiency by 20%.  
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-## Github Statistics
+## 🛠️ Skills  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&locale=en&layout=compact" alt="Your GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&locale=en" alt="Your GitHub Stats" /></p>
+- **Languages:** JavaScript, Python, Java  
+- **Frontend:** HTML5, CSS  
+- **Backend:** Node.js, .NET Core, .NET Web MVC, Microsoft Bot Framework  
+- **Databases:** MySQL, SQL Server, Azure Cosmos  
+- **Cloud:** Azure, Azure Bot Service, Azure App Service, Azure WebApp  
+- **Tools:** Git/GitHub, Linux, Microsoft Graph API, Agile Development  
+- **Soft Skills:** Team Collaboration, Communication, Interpretation  
+
+---
+
+## 📂 Projects  
+
+- **Movie Recommendation Website**  
+  - Tech Stack: Python, MySQL, TMDB API, HTML, CSS, JS  
+  - Built a recommendation system based on user preferences, viewing history, and ratings.  
+  - Integrated TMDB API to fetch real-time movie data (10,000+ titles).  
+  - Optimized backend queries, improving response times by 20%.  
+
+---
+
+## 🎓 Education  
+
+- **B.Tech, JIS College of Engineering (2020 – 2024)** — GPA: 9.15/10.0  
+- **Class 12th, State Board (2020)** — 89.6%  
+- **Class 10th, State Board (2018)** — 93%  
+
+---
+
+## 🌐 Social Profiles  
+
+- [LinkedIn](https://www.linkedin.com/in/manish-mondal-32b941215)  
+- [GitHub](https://github.com/manishmondal331)  
+
