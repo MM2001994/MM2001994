@@ -1,7 +1,7 @@
 # Hi 👋, I'm Manish Mondal
 A **Senior Analyst at Capgemini** specialising in **Conversational & Agentic AI Systems, Azure Cloud Services, and Full-Stack Development**. I build enterprise-grade bots and scalable solutions that automate workflows and improve operational efficiency.
 
-![Coding]((https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+![Coding](panda.gif.gif)
 
 ---
 
