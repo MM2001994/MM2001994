@@ -6,8 +6,8 @@ A **Senior Analyst at Capgemini** specialising in **Conversational & Agentic AI 
 ---
 
 ## 🌐 Social Profiles
-- [LinkedIn](https://www.linkedin.com/in/manish-mondal-32b941215)
-- [GitHub](https://github.com/manishmondal331)
+- [LinkedIn](https://www.linkedin.com/in/manish-mondal-dev)
+- [GitHub](https://github.com/MM2001994)
 
 ---
 
@@ -37,22 +37,24 @@ A **Senior Analyst at Capgemini** specialising in **Conversational & Agentic AI 
 ---
 
 ## 🛠️ Skills
-
-- **Languages:** JavaScript (ES6+), Java
-- **Frontend:** React.js, HTML5, CSS3
-- **Backend:** Node.js, Microsoft Bot Framework, REST APIs
-- **Databases:** Azure Cosmos DB
+- **Languages:** JavaScript (ES6+)
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, Microsoft Bot Framework, REST APIs
+- **Generative AI / Conversational AI:** Prompt Engineering, Azure OpenAI, LLM Integration, Conversational AI Design
+- **Databases:** Azure Cosmos DB, MongoDB / NoSQL, JSON-based Data Storage
 - **Cloud:** Microsoft Azure, Azure Bot Service, Azure App Service, Azure WebApp, Azure DevOps
-- **Tools:** Microsoft Graph API, Power BI, Postman, Git, npm, VS Code
+- **Tools:** Microsoft Graph API, Power BI, Postman, Git, GitHub, npm, VS Code, Vercel, Render
 - **Practices:** Agile / Scrum, Linux Basics
 
 ---
 
 ## 📂 Projects
-
-- **Movie Recommendation Website** — JavaScript, MySQL, TMDB API, HTML, CSS
-  - Integrated TMDB API to fetch real-time data across 10,000+ titles.
-  - Built MySQL backend for user data processing and recommendations, improving query response times by 20%.
+- **MovieVault — Full-Stack Movie Discovery App** — React.js, Node.js, Express.js, Tailwind CSS, TMDB API
+  - 🔗 [Live Demo](https://movievault-mm2001994s-projects.vercel.app)
+  - 🔗 [GitHub Repo](https://github.com/MM2001994)
+  - Built a full-stack movie discovery platform with a custom trending-tracker backend (Node.js/Express, JSON-based storage) and a React + Tailwind CSS frontend.
+  - Integrated TMDB API to fetch real-time data across 10,000+ titles, with search, filtering, and trending logic.
+  - Deployed frontend on Vercel and backend on Render, resolving deployment protection and CORS configuration for production access.
 
 ---
 
