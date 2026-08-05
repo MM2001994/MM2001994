@@ -134,9 +134,7 @@ React • Node.js • Express • Tailwind CSS • TMDB API • Vercel • Rende
 
 # 🏆 Certification
 
-**Microsoft Certified: Azure Fundamentals (AZ-900)**
-
-March 2025
+**Microsoft Certified: Azure Fundamentals (AZ-900)**          March 2025
 
 ---
 
@@ -144,33 +142,8 @@ March 2025
 
 ### JIS College of Engineering
 
-**B.Tech in Computer Science & Engineering**
-
-2020 – 2024
-
+**B.Tech in Computer Science & Engineering**                  2020 – 2024
 **CGPA:** 9.15 / 10
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MM2001994&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM2001994&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MM2001994&theme=tokyonight"/>
-
-</p>
 
 ---
 
