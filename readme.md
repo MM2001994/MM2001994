@@ -1,69 +1,181 @@
 # Hi 👋, I'm Manish Mondal
-A **Senior Analyst at Capgemini** specialising in **Conversational & Agentic AI Systems, Azure Cloud Services, and Full-Stack Development**. I build enterprise-grade bots and scalable solutions that automate workflows and improve operational efficiency.
+
+### Frontend React Developer | Full-Stack JavaScript Developer
+
+I'm a **Frontend React Developer** with professional software engineering experience at **Capgemini**. I enjoy building modern, responsive, and scalable web applications using **React, JavaScript, Tailwind CSS, and Node.js**.
+
+Although my professional experience includes enterprise AI systems and cloud development, my current focus is creating high-quality frontend applications and continuously improving my React ecosystem skills.
 
 ![Coding](panda.gif.gif)
 
 ---
 
-## 🌐 Social Profiles
-- [LinkedIn](https://www.linkedin.com/in/manish-mondal-dev)
-- [GitHub](https://github.com/MM2001994)
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/manish-mondal-dev
+- 💻 GitHub: https://github.com/MM2001994
+- 📧 Email: manishmondal331@gmail.com
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently leading agentic AI bot development and mentoring a 3-person team at Capgemini.
-- 📫 Reach me at: **manishmondal331@gmail.com**
-- ⚡ Fun fact: I enjoy exploring new technologies, reading, and collaborating on impactful projects.
+# 👨‍💻 About Me
+
+- 💼 Frontend React Developer with 2+ years of software engineering experience
+- ⚛️ Passionate about React, JavaScript, UI development, and modern web technologies
+- 🚀 Currently building full-stack projects using React, Node.js, Express, and REST APIs
+- 🌱 Learning advanced React patterns, TypeScript, Next.js, and System Design
+- 🤝 Open to Frontend / React Developer opportunities
+- ⚡ I enjoy transforming ideas into clean, responsive user experiences
 
 ---
 
-## 💼 Work Experience
+# 💼 Experience
 
-- **Senior Analyst, Capgemini (Mar 2026 – Present)**
-  - Promoted within 18 months for technical leadership in agentic AI bot development.
-  - Leading and mentoring a 3-person development team — task allocation, code reviews, and knowledge transfer.
-  - Training team members on Microsoft Bot Framework, Azure services, and engineering best practices.
+## Senior Analyst | Capgemini
+**March 2026 – Present**
 
-- **Software Engineer / Analyst, Capgemini (Aug 2024 – Feb 2026)**
-  - Developed and deployed a conversational AI bot on Azure using Microsoft Bot Framework — 99.9% uptime, automating 500+ HR/IT queries monthly for 2,500+ users.
-  - Integrated with Microsoft Teams and Graph API, reducing manual query resolution time by 30%.
-  - Streamlined communication protocols handling 5,000+ daily queries, cutting average response time by 40%.
-  - Integrated Power BI dashboards to monitor bot performance, improving reporting efficiency by 35%.
-
-- **Martian Summer Intern, Persistent Systems (May 2023 – Jun 2023)**
-  - Delivered 15+ complex coding assignments, optimising algorithms to improve execution efficiency by 20%.
+- Leading development initiatives for enterprise software projects
+- Mentoring junior developers through code reviews and technical guidance
+- Collaborating with cross-functional teams following Agile methodologies
+- Developing scalable JavaScript-based applications and backend services
 
 ---
 
-## 🛠️ Skills
-- **Languages:** JavaScript (ES6+)
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, Microsoft Bot Framework, REST APIs
-- **Generative AI / Conversational AI:** Prompt Engineering, Azure OpenAI, LLM Integration, Conversational AI Design
-- **Databases:** Azure Cosmos DB, MongoDB / NoSQL, JSON-based Data Storage
-- **Cloud:** Microsoft Azure, Azure Bot Service, Azure App Service, Azure WebApp, Azure DevOps
-- **Tools:** Microsoft Graph API, Power BI, Postman, Git, GitHub, npm, VS Code, Vercel, Render
-- **Practices:** Agile / Scrum, Linux Basics
+## Software Engineer | Capgemini
+**August 2024 – February 2026**
+
+- Developed enterprise applications using JavaScript, Node.js and REST APIs
+- Built and maintained scalable backend services deployed on Microsoft Azure
+- Integrated Microsoft Teams, Graph APIs and cloud services
+- Created Power BI dashboards for monitoring application performance
+- Improved application response time and system efficiency through optimization
 
 ---
 
-## 📂 Projects
-- **MovieVault — Full-Stack Movie Discovery App** — React.js, Node.js, Express.js, Tailwind CSS, TMDB API
-  - 🔗 [Live Demo](https://movievault-mm2001994s-projects.vercel.app)
-  - 🔗 [GitHub Repo](https://github.com/MM2001994)
-  - Built a full-stack movie discovery platform with a custom trending-tracker backend (Node.js/Express, JSON-based storage) and a React + Tailwind CSS frontend.
-  - Integrated TMDB API to fetch real-time data across 10,000+ titles, with search, filtering, and trending logic.
-  - Deployed frontend on Vercel and backend on Render, resolving deployment protection and CORS configuration for production access.
+## Martian Summer Intern | Persistent Systems
+**May 2023 – June 2023**
+
+- Solved algorithmic programming assignments
+- Improved problem-solving and software engineering fundamentals
 
 ---
 
-## 🏅 Certifications
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft, March 2025
+# 🚀 Featured Project
+
+## 🎬 MovieVault
+
+**Tech Stack**
+
+React • Node.js • Express • Tailwind CSS • TMDB API • Vercel • Render
+
+### Features
+
+- Movie search with real-time TMDB API integration
+- Trending movie tracker
+- Responsive UI
+- Modern React architecture
+- REST API integration
+- Production deployment on Vercel & Render
+
+### Live Demo
+
+🔗 https://movievault-mm2001994s-projects.vercel.app
+
+### GitHub
+
+🔗 https://github.com/MM2001994
 
 ---
 
-## 🎓 Education
-- **B.Tech, JIS College of Engineering (2020 – 2024)** — GPA: 9.15/10.0
-- **Class 12th, State Board (2020)** — 89.6%
-- **Class 10th, State Board (2018)** — 93%
+# 🛠️ Tech Stack
+
+## Frontend
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+
+## Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+## Database
+
+- MongoDB
+- Azure Cosmos DB
+- JSON Storage
+
+## Cloud & Tools
+
+- Microsoft Azure
+- Azure App Services
+- Azure DevOps
+- Git
+- GitHub
+- Postman
+- VS Code
+- Vercel
+- Render
+- npm
+
+## Other Skills
+
+- Responsive Design
+- API Integration
+- Agile / Scrum
+- Power BI
+- Microsoft Graph API
+
+---
+
+# 🏆 Certification
+
+**Microsoft Certified: Azure Fundamentals (AZ-900)**
+
+March 2025
+
+---
+
+# 🎓 Education
+
+### JIS College of Engineering
+
+**B.Tech in Computer Science & Engineering**
+
+2020 – 2024
+
+**CGPA:** 9.15 / 10
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MM2001994&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM2001994&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MM2001994&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm currently looking for **Frontend React Developer** opportunities where I can build scalable, user-centric web applications and continue growing as a software engineer.
+
+If you'd like to collaborate or discuss opportunities, feel free to reach out!
