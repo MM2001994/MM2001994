@@ -92,10 +92,11 @@ Frontend React Developer with professional software engineering experience at **
       <a href="https://movievault-mm2001994s-projects.vercel.app">View live demo →</a> · <a href="https://github.com/MM2001994?tab=repositories">Browse source →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Enterprise Teams Chatbot</h3>
-      <p>Enterprise conversational application supporting Microsoft Teams workflows, API integrations, and operational visibility.</p>
-      <p><strong>Node.js · Azure Bot Service · Cosmos DB · Microsoft Graph · Adaptive Cards</strong></p>
-      <sub>Professional work at Capgemini; source code is proprietary.</sub>
+      <h3>🤖 Enterprise Conversational AI Platform</h3>
+      <p>A React-powered enterprise application delivering multi-step conversational workflows for 2,500+ users, including CV Maker, Proposal Maker, and Proposal Validator modules.</p>
+      <p><strong>React.js · React Hooks · Context API · Node.js · Express.js · REST APIs · Microsoft Teams · Microsoft Graph · Azure</strong></p>
+      <p>Built reusable UI components, asynchronous API integrations, and internal admin tools for bot-performance monitoring.</p>
+      <sub>Professional work at Capgemini; source code and client details are proprietary.</sub>
     </td>
   </tr>
 </table>
@@ -111,22 +112,7 @@ Frontend React Developer with professional software engineering experience at **
 ## GitHub snapshot
 
 <!-- PROFILE-STATS:START -->
-**Live GitHub summary** · Updated 2026-08-07
-
-| Public repositories | Stars earned | Repository forks |
-| :--: | :--: | :--: |
-| **11** | **0** | **0** |
-
-**Most-used languages across my public, non-fork repositories**
-
-| Language | Share of code |
-| :-- | --: |
-| JavaScript | 48.4% |
-| CSS | 25.1% |
-| HTML | 22.1% |
-| C# | 1.9% |
-| Dockerfile | 1.3% |
-| PHP | 1.0% |
+> GitHub-powered profile statistics will appear here after the included workflow runs for the first time.
 <!-- PROFILE-STATS:END -->
 
 ## Currently focused on
