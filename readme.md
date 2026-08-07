@@ -30,6 +30,10 @@ Frontend React Developer with professional software engineering experience at **
 - 🌱 Growing deeper in **Next.js, TypeScript, advanced React patterns, testing, and system design**.
 - 🎯 Open to **Frontend React Developer** opportunities.
 
+<p align="center">
+  <img src="./panda.gif.gif" width="180" alt="Coding panda" />
+</p>
+
 ## Tech I work with
 
 <p align="center">
