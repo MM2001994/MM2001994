@@ -38,29 +38,48 @@ Frontend React Developer with professional software engineering experience at **
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react&theme=dark" width="26" align="absmiddle" alt="React" />&nbsp; React</td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="26" align="absmiddle" alt="Next.js" />&nbsp; Next.js</td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="26" align="absmiddle" alt="JavaScript" />&nbsp; JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="26" align="absmiddle" alt="TypeScript" />&nbsp; TypeScript</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="26" align="absmiddle" alt="Tailwind CSS" />&nbsp; Tailwind CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="26" align="absmiddle" alt="HTML" />&nbsp; HTML</td>
+    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="26" align="absmiddle" alt="CSS" />&nbsp; CSS</td>
+    <td></td>
+  </tr>
+</table>
 
 **Backend & data**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="26" align="absmiddle" alt="Node.js" />&nbsp; Node.js</td>
+    <td><img src="https://skillicons.dev/icons?i=express&theme=dark" width="26" align="absmiddle" alt="Express" />&nbsp; Express</td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="26" align="absmiddle" alt="MongoDB" />&nbsp; MongoDB</td>
+    <td><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="26" align="absmiddle" alt="Redux" />&nbsp; Redux</td>
+  </tr>
+</table>
 
 **Cloud & tools**
 
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="26" align="absmiddle" alt="Microsoft Azure" />&nbsp; Azure</td>
+    <td><img src="https://skillicons.dev/icons?i=git&theme=dark" width="26" align="absmiddle" alt="Git" />&nbsp; Git</td>
+    <td><img src="https://skillicons.dev/icons?i=github&theme=dark" width="26" align="absmiddle" alt="GitHub" />&nbsp; GitHub</td>
+    <td><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="26" align="absmiddle" alt="Postman" />&nbsp; Postman</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="26" align="absmiddle" alt="Vercel" />&nbsp; Vercel</td>
+    <td><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="26" align="absmiddle" alt="VS Code" />&nbsp; VS Code</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Selected work
 
