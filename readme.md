@@ -69,10 +69,9 @@ Frontend React Developer with professional software engineering experience at **
 
 ## GitHub snapshot
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MM2001994&show_icons=true&hide_title=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent" alt="Manish's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MM2001994&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Manish's most-used languages" />
-</p>
+<!-- PROFILE-STATS:START -->
+> GitHub-powered profile statistics will appear here after the included workflow runs for the first time.
+<!-- PROFILE-STATS:END -->
 
 ## Currently focused on
 
