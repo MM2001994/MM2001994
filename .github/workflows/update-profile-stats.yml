@@ -1,0 +1,94 @@
+name: Update profile statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Build statistics from GitHub repositories
+        uses: actions/github-script@v7
+        env:
+          PROFILE_USERNAME: MM2001994
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const username = process.env.PROFILE_USERNAME;
+            const repositories = await github.paginate(github.rest.repos.listForUser, {
+              username,
+              type: 'owner',
+              per_page: 100,
+            });
+
+            const ownPublicRepos = repositories.filter(repo => !repo.fork && !repo.archived);
+            const languageBytes = {};
+            let stars = 0;
+            let forks = 0;
+
+            for (const repo of ownPublicRepos) {
+              stars += repo.stargazers_count;
+              forks += repo.forks_count;
+              const { data: languages } = await github.rest.repos.listLanguages({
+                owner: username,
+                repo: repo.name,
+              });
+              for (const [language, bytes] of Object.entries(languages)) {
+                languageBytes[language] = (languageBytes[language] || 0) + bytes;
+              }
+            }
+
+            const totalBytes = Object.values(languageBytes).reduce((sum, bytes) => sum + bytes, 0);
+            const topLanguages = Object.entries(languageBytes)
+              .sort(([, a], [, b]) => b - a)
+              .slice(0, 6)
+              .map(([language, bytes]) => {
+                const percent = totalBytes ? ((bytes / totalBytes) * 100).toFixed(1) : '0.0';
+                return `| ${language} | ${percent}% |`;
+              });
+
+            const generatedAt = new Date().toISOString().slice(0, 10);
+            const stats = [
+              '<!-- PROFILE-STATS:START -->',
+              `**Live GitHub summary** · Updated ${generatedAt}`,
+              '',
+              '| Public repositories | Stars earned | Repository forks |',
+              '| :--: | :--: | :--: |',
+              `| **${ownPublicRepos.length}** | **${stars}** | **${forks}** |`,
+              '',
+              '**Most-used languages across my public, non-fork repositories**',
+              '',
+              '| Language | Share of code |',
+              '| :-- | --: |',
+              ...(topLanguages.length ? topLanguages : ['| No language data yet | — |']),
+              '<!-- PROFILE-STATS:END -->',
+            ].join('\n');
+
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const marker = /<!-- PROFILE-STATS:START -->[\s\S]*?<!-- PROFILE-STATS:END -->/;
+            if (!marker.test(readme)) {
+              core.setFailed('README.md is missing the PROFILE-STATS markers.');
+              return;
+            }
+            fs.writeFileSync('README.md', readme.replace(marker, stats));
+
+      - name: Commit refreshed statistics
+        run: |
+          if git diff --quiet; then
+            echo "Statistics are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh profile statistics"
+          git push
