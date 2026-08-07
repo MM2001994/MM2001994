@@ -36,9 +36,31 @@ Frontend React Developer with professional software engineering experience at **
 
 ## Tech I work with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,redux,nodejs,express,mongodb,azure,git,github,postman,vercel,vscode&perline=9" alt="React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Vite, Redux, Node.js, Express, MongoDB, Azure, Git, GitHub, Postman, Vercel and VS Code" />
-</p>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="28" alt="React" /> React &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="28" alt="Next.js" /> Next.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="28" alt="JavaScript" /> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="28" alt="TypeScript" /> TypeScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="28" alt="Tailwind CSS" /> Tailwind CSS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="28" alt="HTML" /> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="28" alt="CSS" /> CSS
+
+**Backend & data**
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="28" alt="Node.js" /> Node.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="28" alt="Express" /> Express &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="28" alt="MongoDB" /> MongoDB &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redux&theme=dark" width="28" alt="Redux" /> Redux
+
+**Cloud & tools**
+
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" width="28" alt="Microsoft Azure" /> Microsoft Azure &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="28" alt="Git" /> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="28" alt="GitHub" /> GitHub &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="28" alt="Postman" /> Postman &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="28" alt="Vercel" /> Vercel &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="28" alt="VS Code" /> VS Code
 
 ## Selected work
 
@@ -70,22 +92,7 @@ Frontend React Developer with professional software engineering experience at **
 ## GitHub snapshot
 
 <!-- PROFILE-STATS:START -->
-**Live GitHub summary** · Updated 2026-08-07
-
-| Public repositories | Stars earned | Repository forks |
-| :--: | :--: | :--: |
-| **11** | **0** | **0** |
-
-**Most-used languages across my public, non-fork repositories**
-
-| Language | Share of code |
-| :-- | --: |
-| JavaScript | 48.4% |
-| CSS | 25.1% |
-| HTML | 22.1% |
-| C# | 1.9% |
-| Dockerfile | 1.3% |
-| PHP | 1.0% |
+> GitHub-powered profile statistics will appear here after the included workflow runs for the first time.
 <!-- PROFILE-STATS:END -->
 
 ## Currently focused on
