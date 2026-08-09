@@ -130,19 +130,19 @@ Frontend React Developer with professional software engineering experience at **
 | PHP | 0.9% |
 <!-- PROFILE-STATS:END -->
 
-## Currently focused on
+## Currently Improving
 
-- Building portfolio-grade React projects with clean UI states, API integrations, and responsive design.
-- Developing deeper fluency in Next.js and TypeScript.
-- Improving frontend quality through accessibility, performance, and testing practices.
-- Applying my enterprise background to user-focused frontend engineering.
+- TypeScript and Next.js for production React development
+- Frontend testing with React Testing Library and Playwright
+- Accessibility, Core Web Vitals, and frontend performance
+- Scalable component architecture and modern React patterns
 
-## Learning goals for 2026
+## 2026 Goals
 
 - [ ] Ship a production-quality Next.js application end to end.
-- [ ] Strengthen component and end-to-end testing with React Testing Library and Playwright.
-- [ ] Make accessibility and Core Web Vitals part of every project’s definition of done.
-- [ ] Contribute to open source and share practical frontend learnings.
+- [ ] Build stronger testing practices with React Testing Library and Playwright.
+- [ ] Apply accessibility and Core Web Vitals consistently across projects.
+- [ ] Contribute to open source and share practical frontend engineering learnings.
 
 ## Credentials
 
