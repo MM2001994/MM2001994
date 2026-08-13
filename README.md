@@ -8,6 +8,7 @@
 
 <br />
 
+<a href="https://manish-mondal-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/manish-mondal-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:manishmondal331@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/MM2001994"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -166,6 +167,8 @@ Frontend React Developer with professional software engineering experience at **
 I'm looking for frontend opportunities where thoughtful interface engineering makes a real difference. If you're building something that needs a strong React foundation, let's talk.
 
 <p align="center">
+  <a href="https://manish-mondal-portfolio.netlify.app/">Portfolio</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/manish-mondal-dev">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:manishmondal331@gmail.com">Email</a>
