@@ -99,6 +99,16 @@ Frontend React Developer with professional software engineering experience at **
       <sub>Professional work at Capgemini; source code and client details are proprietary.</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍔 Order Management App</h3>
+      <p>A full-stack food-ordering feature covering menu browsing, cart management, delivery-detail validation, checkout, and simulated real-time order-status tracking via polling.</p>
+      <p><strong>React · Vite · React Router · Node.js · Express · REST APIs · Vitest · Supertest · React Testing Library</strong></p>
+      <p>Server-side price calculation from trusted menu data, matching frontend/backend quantity limits, and full API + UI test coverage.</p>
+      <a href="https://mm-food-order-management-app.netlify.app">View live demo →</a> · <a href="https://github.com/MM2001994/food-order-management-app">Browse source →</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## Experience
@@ -152,7 +162,7 @@ Frontend React Developer with professional software engineering experience at **
 
 ## Let's connect
 
-I'm looking for frontend opportunities where thoughtful interface engineering makes a real difference. If you’re building something that needs a strong React foundation, let’s talk.
+I'm looking for frontend opportunities where thoughtful interface engineering makes a real difference. If you're building something that needs a strong React foundation, let's talk.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-mondal-dev">LinkedIn</a>
