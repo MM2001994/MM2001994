@@ -76,8 +76,6 @@ Frontend React Developer with professional software engineering experience at **
   <tr>
     <td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="26" align="absmiddle" alt="Vercel" />&nbsp; Vercel</td>
     <td><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="26" align="absmiddle" alt="VS Code" />&nbsp; VS Code</td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
