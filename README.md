@@ -45,12 +45,12 @@ Frontend React Developer with professional software engineering experience at **
     <td><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="26" align="absmiddle" alt="Next.js" />&nbsp; Next.js</td>
     <td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="26" align="absmiddle" alt="JavaScript" />&nbsp; JavaScript</td>
     <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="26" align="absmiddle" alt="TypeScript" />&nbsp; TypeScript</td>
+    <td><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="26" align="absmiddle" alt="Redux" />&nbsp; Redux</td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="26" align="absmiddle" alt="Tailwind CSS" />&nbsp; Tailwind CSS</td>
     <td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="26" align="absmiddle" alt="HTML" />&nbsp; HTML</td>
     <td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="26" align="absmiddle" alt="CSS" />&nbsp; CSS</td>
-    <td></td>
   </tr>
 </table>
 
@@ -61,7 +61,6 @@ Frontend React Developer with professional software engineering experience at **
     <td><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="26" align="absmiddle" alt="Node.js" />&nbsp; Node.js</td>
     <td><img src="https://skillicons.dev/icons?i=express&theme=dark" width="26" align="absmiddle" alt="Express" />&nbsp; Express</td>
     <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="26" align="absmiddle" alt="MongoDB" />&nbsp; MongoDB</td>
-    <td><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="26" align="absmiddle" alt="Redux" />&nbsp; Redux</td>
   </tr>
 </table>
 
