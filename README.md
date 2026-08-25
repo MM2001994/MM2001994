@@ -121,7 +121,7 @@ Frontend React Developer with professional software engineering experience at **
 ## GitHub snapshot
 
 <!-- PROFILE-STATS:START -->
-**Live GitHub summary** · Updated 2026-08-24
+**Live GitHub summary** · Updated 2026-08-25
 
 | Public repositories | Stars earned | Repository forks |
 | :--: | :--: | :--: |
@@ -131,10 +131,10 @@ Frontend React Developer with professional software engineering experience at **
 
 | Language | Share of code |
 | :-- | --: |
-| JavaScript | 67.4% |
-| CSS | 21.2% |
-| HTML | 9.6% |
-| C# | 0.8% |
+| JavaScript | 69.2% |
+| CSS | 20.0% |
+| HTML | 9.1% |
+| C# | 0.7% |
 | Dockerfile | 0.5% |
 | PHP | 0.4% |
 <!-- PROFILE-STATS:END -->
